@@ -1,2 +1,2 @@
-Elsõ szöveg módosított
+Branch1-ben írt szöveg
 Branch2-ben írtam hozzá
