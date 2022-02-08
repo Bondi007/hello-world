@@ -1,5 +1,0 @@
-Branch1-ben írt szöveg
-Branch2-ben írtam hozzá
-Branch2-ben master merge után írtam
-
-REset után
